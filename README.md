@@ -18,6 +18,8 @@ Clone this repo:
 
 navigate to project directory: cd `object_detection`
 
+install dependencies: `pip install -r requirements.txt`
+
 Run the script: `python main.py -i [streaming]`
 
 ### Arguments
